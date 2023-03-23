@@ -1,4 +1,9 @@
 ### Hi there 👋
+Full-stack developer looking to continue growing in my career. Focused, fast learner, and team player with a proven ability to deliver complex web applications that meet clients’ business needs.
+Skills
+* PROGRAMMING LANGUAGES: HTML, CSS, Javascript, SASS, Python, C++
+* FRAMEWORKS AND ENVIRONMENTS: Node.js, Vue
+* PLATFORMS: Google Cloud Platform, Twilio, Sendgrid, Mailchimp, Squarespace, Shopify, Typeform
 
 <!--
 **etothepi16/etothepi16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
