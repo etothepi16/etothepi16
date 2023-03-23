@@ -1,5 +1,5 @@
 ### Hi there 👋
-Full-stack developer looking to continue growing in my career. Focused, fast learner, and team player with a proven ability to deliver complex web applications that meet clients’ business needs.
+I'm Paul, a full-stack developer looking to continue growing in my career. Focused, fast learner, and team player with a proven ability to deliver complex web applications that meet clients’ business needs.
 Skills
 * PROGRAMMING LANGUAGES: HTML, CSS, Javascript, SASS, Python, C++
 * FRAMEWORKS AND ENVIRONMENTS: Node.js, Vue
