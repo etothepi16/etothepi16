@@ -25,3 +25,9 @@ Here are some ideas to get you started:
 
 # Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=etothepi16&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+# ⚡ Fun facts
+- I play chess (badly... but I play it!)
+- I lived in France for 4 years
+- I've met the inventor of Klingon
+- I used to want to be an astronaut
