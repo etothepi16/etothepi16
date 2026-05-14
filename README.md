@@ -1,6 +1,3 @@
-### Hi there 👋
-I'm Paul, a full-stack developer based in the Midwest. Focused, fast learner, and team player with a proven ability to deliver complex web applications that meet clients’ business needs.
-
 # Skills ✨
 - Languages: HTML, CSS, Javascript, SASS, Python, C++
 - Frameworks and environments: Node.js, Vue
